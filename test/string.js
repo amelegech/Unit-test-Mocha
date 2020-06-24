@@ -17,8 +17,6 @@ function mySubstring(str, y){
 
 } 
 
-
-
 describe('working on string', function(){
     describe('boundery check', function(){
         it("output will be empty string", function(){
