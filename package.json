@@ -1,0 +1,22 @@
+{
+  "name": "unit-test-mocha",
+  "version": "1.0.0",
+  "description": "Software Engineering homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amelegech/Unit-test-Mocha.git"
+  },
+  "author": "Amele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amelegech/Unit-test-Mocha/issues"
+  },
+  "homepage": "https://github.com/amelegech/Unit-test-Mocha#readme",
+  "dependencies": {
+    "mocha": "^8.0.1"
+  }
+}
